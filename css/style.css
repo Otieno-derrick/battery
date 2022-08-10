@@ -136,11 +136,14 @@ body {
   border-radius: 50%;
 }
 
-/* Full battery icon color */
 .green-color {
   background: var(--gradient-color-green);
 }
 
+<<<<<<< HEAD
+=======
+/* Battery charging animation */
+>>>>>>> 533113b2da91d0568c331a875506839cfb0c4273
 .animated-green {
   background: var(--gradient-color-green);
   animation: animated-charging-battery 1.2s infinite alternate;
