@@ -147,7 +147,7 @@ body {
   animation: animated-charging-battery 1.2s infinite alternate;
 }
 
-/* Low battery animation */
+g
 .animated-red {
   background: var(--gradient-color-red);
   animation: animated-low-battery 1.2s infinite alternate;
